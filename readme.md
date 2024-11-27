@@ -32,7 +32,7 @@ By analyzing live video feeds from surveillance cameras or recorded videos, the 
 
 1. Clone the project repository from GitHub using git cli (*if git command is showing error you have to download git from* [git_download_website](https://git-scm.com/downloads))
     ```
-    git clone https://github.com/shivasaisandela2002/Social-Distancing-Using-Deep-Learning.git
+    git clone https://github.com/shivasaisandela2002/Social-distance-using-Deep-Learning.git
     
     ```
 
@@ -72,7 +72,7 @@ By analyzing live video feeds from surveillance cameras or recorded videos, the 
 
 1. Clone the project repository from GitHub using git cli (*if git command is showing error you have to download git from* [git_download_website](https://git-scm.com/downloads))
     ```
-    git clone https://github.com/shivasaisandela2002/Social-Distancing-Using-Deep-Learning.git
+    git clone https://github.com/shivasaisandela2002/Social-distance-using-Deep-Learning.git
     
     ```
 
@@ -138,7 +138,7 @@ By analyzing live video feeds from surveillance cameras or recorded videos, the 
 
 
 
-https://github.com/Praveen880890/Social-Distancing-Using-Deep-Learning/assets/76040957/cf7a11be-1030-434c-bb7a-80bcb85293b8
+https://github.com/shivasaisanndela2002/Social-distance-using-Deep-Learning/assets/76040957/cf7a11be-1030-434c-bb7a-80bcb85293b8
 
 
 
