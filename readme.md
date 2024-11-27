@@ -32,7 +32,7 @@ By analyzing live video feeds from surveillance cameras or recorded videos, the 
 
 1. Clone the project repository from GitHub using git cli (*if git command is showing error you have to download git from* [git_download_website](https://git-scm.com/downloads))
     ```
-    git clone https://github.com/Praveen880890/Social-Distancing-Using-Deep-Learning.git
+    git clone https://github.com/shivasaisandela2002/Social-Distancing-Using-Deep-Learning.git
     
     ```
 
